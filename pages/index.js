@@ -1,13 +1,15 @@
 /*********************************************************************************
-* BTI425 – Assignment 5
+* BTI425 – Assignment 6
 *
 * I declare that this assignment is my own work in accordance with Seneca's
 * Academic Integrity Policy:
 *
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 *
-* Name: Daniel Fu     Student ID: 153024229    Date: March 22, 2024
+* Name: Daniel Fu     Student ID: 153024229    Date: April 12, 2024
 *
+* Vercel Link:
+* 
 ********************************************************************************/ 
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
